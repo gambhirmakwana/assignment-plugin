@@ -1,0 +1,28 @@
+.main-simle{
+    margin-bottom: 15px;
+    height: auto;
+    line-block;
+    box-sizing: border-box;
+    margin: 12px 0 25px;
+    padding: 0 10px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    border: 1px solid #e5e5e5;
+    background: #fff;
+    color: #555;
+    font-size: 13px;
+}
+.form-inputs {
+    width: 50%;
+    padding: 14px 8px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.as-post
+{
+    display: none;
+}
+.as-page
+{
+    display: none;
+}
